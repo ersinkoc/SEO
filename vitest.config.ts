@@ -14,6 +14,7 @@ export default defineConfig({
         "dist/**",
         "**/dist/**",
         "website/**",
+        "bin/**",
         "**/*.config.*",
         "src/types.ts",
         "src/locales/types.ts",

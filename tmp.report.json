@@ -1,0 +1,896 @@
+{
+  "score": 26,
+  "grade": "F",
+  "categoryScores": {
+    "content": {
+      "score": 0,
+      "maxScore": 12
+    },
+    "meta": {
+      "score": 0,
+      "maxScore": 15
+    },
+    "keyword": {
+      "score": 0,
+      "maxScore": 14
+    },
+    "semantic": {
+      "score": 0,
+      "maxScore": 0
+    },
+    "structure": {
+      "score": 0,
+      "maxScore": 12
+    },
+    "readability": {
+      "score": 12,
+      "maxScore": 12
+    },
+    "technical": {
+      "score": 10,
+      "maxScore": 10
+    },
+    "eeat": {
+      "score": 0,
+      "maxScore": 10
+    },
+    "structuredData": {
+      "score": 0,
+      "maxScore": 0
+    },
+    "ux": {
+      "score": 0,
+      "maxScore": 0
+    }
+  },
+  "rules": [
+    {
+      "id": "content.rule.1",
+      "category": "content",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "content.rule.1 failed",
+      "suggestion": "Improve content quality for rule 1."
+    },
+    {
+      "id": "content.rule.2",
+      "category": "content",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "content.rule.2 failed",
+      "suggestion": "Improve content quality for rule 2."
+    },
+    {
+      "id": "content.rule.3",
+      "category": "content",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "content.rule.3 failed",
+      "suggestion": "Improve content quality for rule 3."
+    },
+    {
+      "id": "content.rule.4",
+      "category": "content",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "content.rule.4 failed",
+      "suggestion": "Improve content quality for rule 4."
+    },
+    {
+      "id": "content.rule.5",
+      "category": "content",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "content.rule.5 failed",
+      "suggestion": "Improve content quality for rule 5."
+    },
+    {
+      "id": "content.rule.6",
+      "category": "content",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "content.rule.6 failed",
+      "suggestion": "Improve content quality for rule 6."
+    },
+    {
+      "id": "content.rule.7",
+      "category": "content",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "content.rule.7 failed",
+      "suggestion": "Improve content quality for rule 7."
+    },
+    {
+      "id": "content.rule.8",
+      "category": "content",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "content.rule.8 failed",
+      "suggestion": "Improve content quality for rule 8."
+    },
+    {
+      "id": "content.rule.9",
+      "category": "content",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "content.rule.9 failed",
+      "suggestion": "Improve content quality for rule 9."
+    },
+    {
+      "id": "content.rule.10",
+      "category": "content",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "content.rule.10 failed",
+      "suggestion": "Improve content quality for rule 10."
+    },
+    {
+      "id": "content.rule.11",
+      "category": "content",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "content.rule.11 failed",
+      "suggestion": "Improve content quality for rule 11."
+    },
+    {
+      "id": "content.rule.12",
+      "category": "content",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "content.rule.12 failed",
+      "suggestion": "Improve content quality for rule 12."
+    },
+    {
+      "id": "meta.rule.1",
+      "category": "meta",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "meta.rule.1 failed",
+      "suggestion": "Improve meta quality for rule 1."
+    },
+    {
+      "id": "meta.rule.2",
+      "category": "meta",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "meta.rule.2 failed",
+      "suggestion": "Improve meta quality for rule 2."
+    },
+    {
+      "id": "meta.rule.3",
+      "category": "meta",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "meta.rule.3 failed",
+      "suggestion": "Improve meta quality for rule 3."
+    },
+    {
+      "id": "meta.rule.4",
+      "category": "meta",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "meta.rule.4 failed",
+      "suggestion": "Improve meta quality for rule 4."
+    },
+    {
+      "id": "meta.rule.5",
+      "category": "meta",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "meta.rule.5 failed",
+      "suggestion": "Improve meta quality for rule 5."
+    },
+    {
+      "id": "meta.rule.6",
+      "category": "meta",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "meta.rule.6 failed",
+      "suggestion": "Improve meta quality for rule 6."
+    },
+    {
+      "id": "meta.rule.7",
+      "category": "meta",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "meta.rule.7 failed",
+      "suggestion": "Improve meta quality for rule 7."
+    },
+    {
+      "id": "meta.rule.8",
+      "category": "meta",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "meta.rule.8 failed",
+      "suggestion": "Improve meta quality for rule 8."
+    },
+    {
+      "id": "meta.rule.9",
+      "category": "meta",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "meta.rule.9 failed",
+      "suggestion": "Improve meta quality for rule 9."
+    },
+    {
+      "id": "meta.rule.10",
+      "category": "meta",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "meta.rule.10 failed",
+      "suggestion": "Improve meta quality for rule 10."
+    },
+    {
+      "id": "meta.rule.11",
+      "category": "meta",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "meta.rule.11 failed",
+      "suggestion": "Improve meta quality for rule 11."
+    },
+    {
+      "id": "meta.rule.12",
+      "category": "meta",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "meta.rule.12 failed",
+      "suggestion": "Improve meta quality for rule 12."
+    },
+    {
+      "id": "meta.rule.13",
+      "category": "meta",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "meta.rule.13 failed",
+      "suggestion": "Improve meta quality for rule 13."
+    },
+    {
+      "id": "meta.rule.14",
+      "category": "meta",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "meta.rule.14 failed",
+      "suggestion": "Improve meta quality for rule 14."
+    },
+    {
+      "id": "meta.rule.15",
+      "category": "meta",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "meta.rule.15 failed",
+      "suggestion": "Improve meta quality for rule 15."
+    },
+    {
+      "id": "keyword.rule.1",
+      "category": "keyword",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "keyword.rule.1 failed",
+      "suggestion": "Improve keyword quality for rule 1."
+    },
+    {
+      "id": "keyword.rule.2",
+      "category": "keyword",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "keyword.rule.2 failed",
+      "suggestion": "Improve keyword quality for rule 2."
+    },
+    {
+      "id": "keyword.rule.3",
+      "category": "keyword",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "keyword.rule.3 failed",
+      "suggestion": "Improve keyword quality for rule 3."
+    },
+    {
+      "id": "keyword.rule.4",
+      "category": "keyword",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "keyword.rule.4 failed",
+      "suggestion": "Improve keyword quality for rule 4."
+    },
+    {
+      "id": "keyword.rule.5",
+      "category": "keyword",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "keyword.rule.5 failed",
+      "suggestion": "Improve keyword quality for rule 5."
+    },
+    {
+      "id": "keyword.rule.6",
+      "category": "keyword",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "keyword.rule.6 failed",
+      "suggestion": "Improve keyword quality for rule 6."
+    },
+    {
+      "id": "keyword.rule.7",
+      "category": "keyword",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "keyword.rule.7 failed",
+      "suggestion": "Improve keyword quality for rule 7."
+    },
+    {
+      "id": "keyword.rule.8",
+      "category": "keyword",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "keyword.rule.8 failed",
+      "suggestion": "Improve keyword quality for rule 8."
+    },
+    {
+      "id": "keyword.rule.9",
+      "category": "keyword",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "keyword.rule.9 failed",
+      "suggestion": "Improve keyword quality for rule 9."
+    },
+    {
+      "id": "keyword.rule.10",
+      "category": "keyword",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "keyword.rule.10 failed",
+      "suggestion": "Improve keyword quality for rule 10."
+    },
+    {
+      "id": "keyword.rule.11",
+      "category": "keyword",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "keyword.rule.11 failed",
+      "suggestion": "Improve keyword quality for rule 11."
+    },
+    {
+      "id": "keyword.rule.12",
+      "category": "keyword",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "keyword.rule.12 failed",
+      "suggestion": "Improve keyword quality for rule 12."
+    },
+    {
+      "id": "keyword.rule.13",
+      "category": "keyword",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "keyword.rule.13 failed",
+      "suggestion": "Improve keyword quality for rule 13."
+    },
+    {
+      "id": "keyword.rule.14",
+      "category": "keyword",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "keyword.rule.14 failed",
+      "suggestion": "Improve keyword quality for rule 14."
+    },
+    {
+      "id": "structure.rule.1",
+      "category": "structure",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "structure.rule.1 failed",
+      "suggestion": "Improve structure quality for rule 1."
+    },
+    {
+      "id": "structure.rule.2",
+      "category": "structure",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "structure.rule.2 failed",
+      "suggestion": "Improve structure quality for rule 2."
+    },
+    {
+      "id": "structure.rule.3",
+      "category": "structure",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "structure.rule.3 failed",
+      "suggestion": "Improve structure quality for rule 3."
+    },
+    {
+      "id": "structure.rule.4",
+      "category": "structure",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "structure.rule.4 failed",
+      "suggestion": "Improve structure quality for rule 4."
+    },
+    {
+      "id": "structure.rule.5",
+      "category": "structure",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "structure.rule.5 failed",
+      "suggestion": "Improve structure quality for rule 5."
+    },
+    {
+      "id": "structure.rule.6",
+      "category": "structure",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "structure.rule.6 failed",
+      "suggestion": "Improve structure quality for rule 6."
+    },
+    {
+      "id": "structure.rule.7",
+      "category": "structure",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "structure.rule.7 failed",
+      "suggestion": "Improve structure quality for rule 7."
+    },
+    {
+      "id": "structure.rule.8",
+      "category": "structure",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "structure.rule.8 failed",
+      "suggestion": "Improve structure quality for rule 8."
+    },
+    {
+      "id": "structure.rule.9",
+      "category": "structure",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "structure.rule.9 failed",
+      "suggestion": "Improve structure quality for rule 9."
+    },
+    {
+      "id": "structure.rule.10",
+      "category": "structure",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "structure.rule.10 failed",
+      "suggestion": "Improve structure quality for rule 10."
+    },
+    {
+      "id": "structure.rule.11",
+      "category": "structure",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "structure.rule.11 failed",
+      "suggestion": "Improve structure quality for rule 11."
+    },
+    {
+      "id": "structure.rule.12",
+      "category": "structure",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "structure.rule.12 failed",
+      "suggestion": "Improve structure quality for rule 12."
+    },
+    {
+      "id": "readability.rule.1",
+      "category": "readability",
+      "passed": true,
+      "score": 1,
+      "maxScore": 1,
+      "message": "readability.rule.1 passed"
+    },
+    {
+      "id": "readability.rule.2",
+      "category": "readability",
+      "passed": true,
+      "score": 1,
+      "maxScore": 1,
+      "message": "readability.rule.2 passed"
+    },
+    {
+      "id": "readability.rule.3",
+      "category": "readability",
+      "passed": true,
+      "score": 1,
+      "maxScore": 1,
+      "message": "readability.rule.3 passed"
+    },
+    {
+      "id": "readability.rule.4",
+      "category": "readability",
+      "passed": true,
+      "score": 1,
+      "maxScore": 1,
+      "message": "readability.rule.4 passed"
+    },
+    {
+      "id": "readability.rule.5",
+      "category": "readability",
+      "passed": true,
+      "score": 1,
+      "maxScore": 1,
+      "message": "readability.rule.5 passed"
+    },
+    {
+      "id": "readability.rule.6",
+      "category": "readability",
+      "passed": true,
+      "score": 1,
+      "maxScore": 1,
+      "message": "readability.rule.6 passed"
+    },
+    {
+      "id": "readability.rule.7",
+      "category": "readability",
+      "passed": true,
+      "score": 1,
+      "maxScore": 1,
+      "message": "readability.rule.7 passed"
+    },
+    {
+      "id": "readability.rule.8",
+      "category": "readability",
+      "passed": true,
+      "score": 1,
+      "maxScore": 1,
+      "message": "readability.rule.8 passed"
+    },
+    {
+      "id": "readability.rule.9",
+      "category": "readability",
+      "passed": true,
+      "score": 1,
+      "maxScore": 1,
+      "message": "readability.rule.9 passed"
+    },
+    {
+      "id": "readability.rule.10",
+      "category": "readability",
+      "passed": true,
+      "score": 1,
+      "maxScore": 1,
+      "message": "readability.rule.10 passed"
+    },
+    {
+      "id": "readability.rule.11",
+      "category": "readability",
+      "passed": true,
+      "score": 1,
+      "maxScore": 1,
+      "message": "readability.rule.11 passed"
+    },
+    {
+      "id": "readability.rule.12",
+      "category": "readability",
+      "passed": true,
+      "score": 1,
+      "maxScore": 1,
+      "message": "readability.rule.12 passed"
+    },
+    {
+      "id": "technical.rule.1",
+      "category": "technical",
+      "passed": true,
+      "score": 1,
+      "maxScore": 1,
+      "message": "technical.rule.1 passed"
+    },
+    {
+      "id": "technical.rule.2",
+      "category": "technical",
+      "passed": true,
+      "score": 1,
+      "maxScore": 1,
+      "message": "technical.rule.2 passed"
+    },
+    {
+      "id": "technical.rule.3",
+      "category": "technical",
+      "passed": true,
+      "score": 1,
+      "maxScore": 1,
+      "message": "technical.rule.3 passed"
+    },
+    {
+      "id": "technical.rule.4",
+      "category": "technical",
+      "passed": true,
+      "score": 1,
+      "maxScore": 1,
+      "message": "technical.rule.4 passed"
+    },
+    {
+      "id": "technical.rule.5",
+      "category": "technical",
+      "passed": true,
+      "score": 1,
+      "maxScore": 1,
+      "message": "technical.rule.5 passed"
+    },
+    {
+      "id": "technical.rule.6",
+      "category": "technical",
+      "passed": true,
+      "score": 1,
+      "maxScore": 1,
+      "message": "technical.rule.6 passed"
+    },
+    {
+      "id": "technical.rule.7",
+      "category": "technical",
+      "passed": true,
+      "score": 1,
+      "maxScore": 1,
+      "message": "technical.rule.7 passed"
+    },
+    {
+      "id": "technical.rule.8",
+      "category": "technical",
+      "passed": true,
+      "score": 1,
+      "maxScore": 1,
+      "message": "technical.rule.8 passed"
+    },
+    {
+      "id": "technical.rule.9",
+      "category": "technical",
+      "passed": true,
+      "score": 1,
+      "maxScore": 1,
+      "message": "technical.rule.9 passed"
+    },
+    {
+      "id": "technical.rule.10",
+      "category": "technical",
+      "passed": true,
+      "score": 1,
+      "maxScore": 1,
+      "message": "technical.rule.10 passed"
+    },
+    {
+      "id": "eeat.rule.1",
+      "category": "eeat",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "eeat.rule.1 failed",
+      "suggestion": "Improve eeat quality for rule 1."
+    },
+    {
+      "id": "eeat.rule.2",
+      "category": "eeat",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "eeat.rule.2 failed",
+      "suggestion": "Improve eeat quality for rule 2."
+    },
+    {
+      "id": "eeat.rule.3",
+      "category": "eeat",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "eeat.rule.3 failed",
+      "suggestion": "Improve eeat quality for rule 3."
+    },
+    {
+      "id": "eeat.rule.4",
+      "category": "eeat",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "eeat.rule.4 failed",
+      "suggestion": "Improve eeat quality for rule 4."
+    },
+    {
+      "id": "eeat.rule.5",
+      "category": "eeat",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "eeat.rule.5 failed",
+      "suggestion": "Improve eeat quality for rule 5."
+    },
+    {
+      "id": "eeat.rule.6",
+      "category": "eeat",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "eeat.rule.6 failed",
+      "suggestion": "Improve eeat quality for rule 6."
+    },
+    {
+      "id": "eeat.rule.7",
+      "category": "eeat",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "eeat.rule.7 failed",
+      "suggestion": "Improve eeat quality for rule 7."
+    },
+    {
+      "id": "eeat.rule.8",
+      "category": "eeat",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "eeat.rule.8 failed",
+      "suggestion": "Improve eeat quality for rule 8."
+    },
+    {
+      "id": "eeat.rule.9",
+      "category": "eeat",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "eeat.rule.9 failed",
+      "suggestion": "Improve eeat quality for rule 9."
+    },
+    {
+      "id": "eeat.rule.10",
+      "category": "eeat",
+      "passed": false,
+      "score": 0,
+      "maxScore": 1,
+      "message": "eeat.rule.10 failed",
+      "suggestion": "Improve eeat quality for rule 10."
+    }
+  ],
+  "suggestions": [
+    {
+      "id": "content.rule.1",
+      "category": "content",
+      "message": "Improve content quality for rule 1.",
+      "priority": "medium"
+    },
+    {
+      "id": "content.rule.2",
+      "category": "content",
+      "message": "Improve content quality for rule 2.",
+      "priority": "medium"
+    },
+    {
+      "id": "content.rule.3",
+      "category": "content",
+      "message": "Improve content quality for rule 3.",
+      "priority": "medium"
+    },
+    {
+      "id": "content.rule.4",
+      "category": "content",
+      "message": "Improve content quality for rule 4.",
+      "priority": "medium"
+    },
+    {
+      "id": "content.rule.5",
+      "category": "content",
+      "message": "Improve content quality for rule 5.",
+      "priority": "medium"
+    },
+    {
+      "id": "content.rule.6",
+      "category": "content",
+      "message": "Improve content quality for rule 6.",
+      "priority": "medium"
+    },
+    {
+      "id": "content.rule.7",
+      "category": "content",
+      "message": "Improve content quality for rule 7.",
+      "priority": "medium"
+    },
+    {
+      "id": "content.rule.8",
+      "category": "content",
+      "message": "Improve content quality for rule 8.",
+      "priority": "medium"
+    },
+    {
+      "id": "content.rule.9",
+      "category": "content",
+      "message": "Improve content quality for rule 9.",
+      "priority": "medium"
+    },
+    {
+      "id": "content.rule.10",
+      "category": "content",
+      "message": "Improve content quality for rule 10.",
+      "priority": "medium"
+    },
+    {
+      "id": "content.rule.11",
+      "category": "content",
+      "message": "Improve content quality for rule 11.",
+      "priority": "medium"
+    },
+    {
+      "id": "content.rule.12",
+      "category": "content",
+      "message": "Improve content quality for rule 12.",
+      "priority": "medium"
+    },
+    {
+      "id": "competitor.secondary-keywords",
+      "category": "semantic",
+      "message": "Add more secondary keywords to improve competitor topic coverage.",
+      "priority": "medium"
+    },
+    {
+      "id": "competitor.content-depth",
+      "category": "content",
+      "message": "Increase content depth to compete with long-form pages.",
+      "priority": "high"
+    },
+    {
+      "id": "freshness.modified-date",
+      "category": "eeat",
+      "message": "Set a modifiedDate to communicate freshness.",
+      "priority": "low"
+    },
+    {
+      "id": "links.internal",
+      "category": "structure",
+      "message": "Add at least 2 internal links to related pages.",
+      "priority": "medium"
+    },
+    {
+      "id": "links.external",
+      "category": "eeat",
+      "message": "Add at least one high-quality external reference.",
+      "priority": "low"
+    }
+  ],
+  "mode": "rule-only"
+}

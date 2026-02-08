@@ -1,0 +1,14 @@
+﻿[
+  {
+    "url": "https://example.com/b1",
+    "title": "Batch One",
+    "content": "<h1>One</h1><p>one content</p>",
+    "focusKeyword": "one"
+  },
+  {
+    "url": "https://example.com/b2",
+    "title": "Batch Two",
+    "content": "<h1>Two</h1><p>two content</p>",
+    "focusKeyword": "two"
+  }
+]

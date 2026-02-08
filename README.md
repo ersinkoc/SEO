@@ -31,7 +31,10 @@ npm i @oxog/seo
 seo help
 seo version
 seo examples
+seo clean-temp
 seo analyze --input ./input.json --format json
+seo analyze --input ./input.json --locale tr --profile blog --depth standard --output ./report.json
+seo batch --input ./batch.json --format csv --output ./reports.csv
 ```
 
 ## Quick Start

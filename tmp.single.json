@@ -1,0 +1,6 @@
+﻿{
+  "url": "https://example.com/a",
+  "title": "Batch A",
+  "content": "<h1>A</h1><p>alpha content</p>",
+  "focusKeyword": "alpha"
+}
