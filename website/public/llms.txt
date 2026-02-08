@@ -1,0 +1,17 @@
+@oxog/seo website docs
+
+Primary package:
+- npm: @oxog/seo
+- repository: https://github.com/ersinkoc/seo
+
+Core API:
+- createSeoAnalyzer
+- analyzeSync / analyze
+- analyzeBatchSync / analyzeBatch
+
+Formats:
+- JSON
+- Markdown
+- HTML
+- CSV
+

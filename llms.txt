@@ -1,0 +1,49 @@
+@oxog/seo
+
+Purpose:
+- Zero-runtime-dependency on-page SEO analyzer with deterministic scoring.
+- Optional AI enhancement over OpenAI-compatible HTTP APIs.
+
+Public API:
+- createSeoAnalyzer(config)
+- analyzer.analyzeSync(input)
+- analyzer.analyze(input)
+- analyzer.analyzeBatchSync(inputs)
+- analyzer.analyzeBatch(inputs)
+- analyzer.addRule(rule)
+- analyzer.use(plugin)
+- analyzer.getRules()
+- analyzer.format(report)
+- analyzer.formatMarkdown(report)
+- analyzer.formatHtml(report)
+- analyzer.formatCsv(reports)
+
+Config:
+- locale: "en" | "tr"
+- profile: "blog" | "product" | "landing" | "news" | "documentation" | "ecommerce"
+- depth: "quick" | "standard" | "full"
+- enabledCategories: optional category allow-list
+- ai: optional { enabled, baseUrl, apiKey, model, timeoutMs, ruleWeight, aiWeight }
+
+Scoring:
+- 10 categories
+- 107 built-in rules
+- weighted category scoring by profile
+- grade mapping A+ to F
+- mode is "rule-only" or "hybrid"
+
+Depth behavior:
+- quick: content, meta, keyword, technical
+- standard: quick + structure, readability, eeat
+- full: all categories
+
+Compare utilities:
+- diffReports(previous, next)
+- analyzeTrend(reports)
+- benchmarkReport(report, benchmarkScore)
+
+Operational notes:
+- analyzeSync never performs network requests.
+- analyze may call AI endpoint when enabled.
+- AI failures do not fail analysis; returns deterministic fallback.
+- Runtime dependencies must remain empty.
