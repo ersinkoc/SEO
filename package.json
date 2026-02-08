@@ -6,6 +6,9 @@
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
+  "bin": {
+    "seo": "./bin/seo.cjs"
+  },
   "exports": {
     ".": {
       "import": {
@@ -29,12 +32,14 @@
     }
   },
   "files": [
-    "dist"
+    "dist",
+    "bin"
   ],
   "sideEffects": false,
   "scripts": {
     "build": "tsup",
     "test": "vitest run",
+    "examples:run": "vitest run tests/examples-smoke.test.ts",
     "test:coverage": "vitest run --coverage",
     "test:watch": "vitest",
     "typecheck": "tsc --noEmit",

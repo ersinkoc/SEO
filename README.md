@@ -25,6 +25,15 @@ Enterprise-grade, zero-runtime-dependency on-page SEO scoring engine for TypeScr
 npm i @oxog/seo
 ```
 
+## CLI
+
+```bash
+seo help
+seo version
+seo examples
+seo analyze --input ./input.json --format json
+```
+
 ## Quick Start
 
 ```ts
@@ -217,6 +226,7 @@ Example catalog currently includes 19 TypeScript files across 6 groups:
 ## Development
 
 ```bash
+npm run examples:run
 npm run test
 npm run test:coverage
 npm run typecheck
